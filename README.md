@@ -4,16 +4,28 @@ I made this sign to try and slow car drivers in my neighbourhood.
 
 ## Inspiration
 
-During the lockdown the cars dissapeared from our local streets and the people came back - slowly at first as if they couldn't quite believe it was now safe to cycle or let their  kids play on the footpath. By the end of the lockdonw the sreets were alive with people walking with their familes, parents on bikes with their kids, seniors taking a stroll. 
+During the lockdown cars disappeared from our local streets and the people came back - slowly at first, as if they couldn't quite believe it was now safe to cycle or let their kids play on the footpath. By the end of the lockdonw the sreets were alive with people walking with their familes, parents on bikes with their kids, seniors taking a stroll. 
 
 I want to try and keep that vibe.
 
-Inspired Hone Harawira practical approach to the law (https://www.stuff.co.nz/national/health/coronavirus/121036470/coronavirus-police-order-hone-harawiras-covid19-checkpoints-to-run-correctly I though a 3-km/h sign might help to kepp traffic speeds down post lockdown.
+Inspired by Hone Harawira's practical approach to public health management and law enforcement  (https://www.stuff.co.nz/national/health/coronavirus/121036470/coronavirus-police-order-hone-harawiras-covid19-checkpoints-to-run-correctly I thought a 30-km/h sign might help to kepp traffic speeds down post lockdown.
 
-Hopefully, other people will do this and we can speed up te spread of Auckland Transport's Safer Speeds program https://at.govt.nz/projects-roadworks/safe-speeds-programme/ to the suburbs.
+## Tools and Materials
+To make the sign you will need:
+* Sturdy cardboard, corflute or thin plywood 600mm x 600mm
+* 6 sheets of A4 paper
+* An inkjet or colour laser printer
+* String
+* Nail
+* Pencil
+* Straight edge
+* Craft knife
+* Scissors
+* PVA Glue 
+* Clear packaging tape
+* 6 x 25 cm cable ties
 
 ## The Process
-
 Making the sign is a realtively simple seven-step process:
 
 1. Make the backing
