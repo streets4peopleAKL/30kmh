@@ -42,10 +42,10 @@ You need a solid but lightweight backing material that will fit a 600 mm diamete
 Tie a piece of string to a pencil and a nail. Make the distance between the mail and the pencil 300 mm. Push the nail through the backing material, pull the string taught and draw a circle. Cut the circle out.
 
 ### 2. Download the graphic
-Down the graphic 30kmh.png from here 
+Down the graphic 30kmh.png from here: https://github.com/streets4peopleAKL/30kmh/edit/master/30kmh.png
 
 ### 3. Print the graphic
-I used Microsoft Paint to do this following the instructions from here: https://www.digitalcitizen.life/print-large-image-multiple-pages-4-steps-using-microsoft-paint. I'm sure you can do this on a Mac somehow - perhaps Adobe Reader can do it https://macintoshhowto.com/printing/how-to-print-across-multiple-pages-or-make-a-banner-in-osx.html
+I used Microsoft Paint to do this following the instructions from here: https://www.digitalcitizen.life/print-large-image-multiple-pages-4-steps-using-microsoft-paint. I'm sure you can do this on a Mac somehow - this article auggests Adobe Reader can do it https://macintoshhowto.com/printing/how-to-print-across-multiple-pages-or-make-a-banner-in-osx.html
 
 Select portrait mode, 3 pages across and 2 down. Set the margins as narrow as the printer can manage.  
 
@@ -65,13 +65,13 @@ Repeat for the top, middle sheet aligning the bottom of the sheet to the pencil 
 
 Repeat for the corner sheets making sure the numbers align and the red circle edges join nicely.
 
-I had some trouble getting the glue to stick so added some more o the edges and ironed with a dry iron and brown paper between the iron and the sign.
+I had some trouble getting the glue to stick so added some more to the edges and ironed it with a dry iron with brown paper between the iron and the sign.
 
 ### 6. Waterproof the sign
 I did this by applying clear packaging tape in overlapping strips to the whole sign including the front and the back. It's kind of wasteful but you can buy tape cheaply from a $2 shop when they reopen.
 
 ### 7. Put the sign up
-You might want to do this last step when it's dark.
+This is the hardest step - you might want to do this last step when it's dark.
 
 Scout a power pole or street sign you can attach the sign to. It should be near the entrance to your street or neighbourhood in a place where drivers can see it. You should mount it as high as you can without needing a ladder to make it harder to pull down. Look for something you can strap the sign to using cable ties.
 
