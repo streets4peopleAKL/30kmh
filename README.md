@@ -56,7 +56,7 @@ Repeat for the corner sheets making sure the numbers align and the red circle ed
 I had some trouble getting the glue to stick so added some more o the edges and ironed with a dry iron and brown paper between the iron and the sign.
 
 ### 6. Waterproof the sign
-I did this by applying clear packing tape in overlapping strips. It's kind of wasteful but you can buy this cheaply from a $2 shop when they reopen.
+I did this by applying clear packaging tape in overlapping strips to the whole sign including the front and the back. It's kind of wasteful but you can buy tape cheaply from a $2 shop when they reopen.
 
 ### 7. Put the sign up
 You might want to do this last step when it's dark.
