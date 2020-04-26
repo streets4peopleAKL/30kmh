@@ -41,6 +41,8 @@ You need a solid but lightweight backing material that will fit a 600 mm diamete
 
 Tie a piece of string to a pencil and a nail. Make the distance between the mail and the pencil 300 mm. Push the nail through the backing material, pull the string taught and draw a circle. Cut the circle out.
 
+![Cutting out the sign](01-CutOutSign.jpg)
+
 ### 2. Download the graphic
 Down the graphic 30kmh.png from here: https://github.com/streets4peopleAKL/30kmh/edit/master/30kmh.png
 
@@ -51,10 +53,14 @@ Select portrait mode, 3 pages across and 2 down. Set the margins as narrow as th
 
 I used regular paper and a cheap inkjet printer. Better paper and a laser printer would help if you have access to it.
 
+![Printing the sheets](02-PrintOutSheets.jpg)
+
 ### 4. Trim the paper edges
 Trim off the margins. I used a craft knife and a steel ruler but scissors would work. You want to get a really straight edge so the numbers join up nicley when you put them back together.
 
 Cut around the edge of the red circle.
+
+![Trimming the sheets](04-TrimSheets.jpg)
 
 ### 5. Glue the paper to the backing
 Draw a pencil line across the centre of the circle through the hole left by the nail when you drew the circle. Lay your sheets out on the circle to make sure they fit.
@@ -67,8 +73,12 @@ Repeat for the corner sheets making sure the numbers align and the red circle ed
 
 I had some trouble getting the glue to stick so added some more to the edges and ironed it with a dry iron with brown paper between the iron and the sign.
 
+![Glue the sheets](05-GlueSheets.jpg)
+
 ### 6. Waterproof the sign
 I did this by applying clear packaging tape in overlapping strips to the whole sign including the front and the back. It's kind of wasteful but you can buy tape cheaply from a $2 shop when they reopen.
+
+![Taping up the sign](06-TapeUpSign.jpg)
 
 ### 7. Put the sign up
 This is the hardest step - you might want to do this last step when it's dark.
