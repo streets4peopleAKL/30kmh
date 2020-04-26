@@ -1,6 +1,6 @@
 # How to make a 30 km/h sign
 
-I made this sign to try and slow car drivers im my neighbourhood. 
+I made this sign to try and slow car drivers in my neighbourhood. 
 
 ## Inspiration
 
@@ -14,7 +14,7 @@ Hopefully, other people will do this and we can speed up te spread of Auckland T
 
 ## The Process
 
-Making the sign is a seven-step process:
+Making the sign is a realtively simple seven-step process:
 
 1. Make the backing
 2. Download the graphic
