@@ -87,3 +87,8 @@ Scout a power pole or street sign you can attach the sign to. It should be near 
 
 Join as many cable ties as you will need to secure the sign. Drill two holes in your sign near the middle. Thread the cable ties through one hole in the sign, around the sign pole or a piece of conduit on a power pole and back through the other hole. Connect the cable tie at the front, pull it tight and snip off the ends.
 
+Your done!
+
+![Sign in place](07-SignUp.jpg)
+
+
