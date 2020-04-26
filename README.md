@@ -81,7 +81,7 @@ I did this by applying clear packaging tape in overlapping strips to the whole s
 ![Taping up the sign](06-TapeUpSign.jpg)
 
 ### 7. Put the sign up
-This is the hardest step - you might want to do this last step when it's dark.
+This is the hardest step - you might want to do it when it's dark.
 
 Scout a power pole or street sign you can attach the sign to. It should be near the entrance to your street or neighbourhood in a place where drivers can see it. You should mount it as high as you can without needing a ladder to make it harder to pull down. Look for something you can strap the sign to using cable ties.
 
