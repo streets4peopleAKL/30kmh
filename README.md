@@ -39,7 +39,7 @@ Making the sign is a relatively simple process:
 ### 1. Make the backing
 You need a solid but lightweight backing material that will fit a 600 mm diameter circle. I used cardboard but if you can get it recycled Coreflute would be best.
 
-Tie a piece of string to a pencil and a nail. Make the distance between the mail and the pencil 300 mm. Push the nail through the backing material, pull the string taught and draw a circle. Cut the circle out.
+Tie a piece of string to a pencil and a nail. Make the distance between the nail and the pencil 300 mm. Push the nail through the backing material, pull the string taught and draw a circle. Cut the circle out.
 
 ![Cutting out the sign](01-CutOutSign.jpg)
 
